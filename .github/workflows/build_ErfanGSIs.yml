@@ -14,8 +14,8 @@ on:
     types: [started]
     
 env:
-  ROM_URL: http://otafsc-cost.h2os.com/OnePlus6/OnePlus6Hydrogen_22.K.52_052_2107162058/patch/CHN/OnePlus6Hydrogen/OnePlus6Hydrogen_22.K.52_052_2107162058/OnePlus6Hydrogen_22.K.52_OTA_052_all_2107162058_62b4aa.zip
-  ROM_NAME: Hydrogen
+  ROM_URL: https://bigota.d.miui.com/V12.0.5.0.QGGCNXM/miui_BEGONIA_V12.0.5.0.QGGCNXM_13dc64c58b_10.0.zip
+  ROM_NAME: MIUI
   TZ: Asia/Shanghai
 
 jobs:
